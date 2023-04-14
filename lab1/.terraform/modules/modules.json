@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"courses_table","Source":"../modules/dynamodb","Dir":"../modules/dynamodb"},{"Key":"lambda_api","Source":"../modules/lambda-api","Dir":""},{"Key":"lessons_table","Source":"../modules/dynamodb","Dir":"../modules/dynamodb"}]}
